@@ -1,0 +1,25 @@
+﻿th, td {
+    padding: 25px;
+    border: 2px solid black;
+    margin: 0;
+    font-size: 30px;
+    background-color:white;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+border: 2px solid black;
+background-color: green;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    background-color:aliceblue;
+    padding: 20px;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
